@@ -20,3 +20,4 @@ EDITANDO ARCHIVO ! PRUEBA FINAL!
 EDITANDO ARCHIVO ! NUEVA PRUEBA!
 GERARD README
 RAMA agregada desde rama1
+Agregando desde rama1 segundo intento
